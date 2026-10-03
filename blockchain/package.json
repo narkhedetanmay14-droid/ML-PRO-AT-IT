@@ -1,0 +1,5 @@
+{
+  "name":"crop-disease-blockchain","version":"1.0.0","private":true,
+  "scripts":{"compile":"truffle compile","migrate":"truffle migrate --network development","test":"truffle test"},
+  "devDependencies":{"truffle":"5.11.5"}
+}
